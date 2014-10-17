@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kiq:home|Door43 (kiq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kiq|d43-kiq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kiq/archive/master.zip|d43-kiq.zip]]
+
+**Recent Changes**
+{{changes>ns = kiq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kiq|Ethnologue data]]
+
